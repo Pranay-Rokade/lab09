@@ -15,6 +15,7 @@ class AdminController extends Controller
         $html = Str::markdown('
 # Heading
 **bold**
+![eagle](/images/eagle.png)
 1. One
 2. Two
         ');
